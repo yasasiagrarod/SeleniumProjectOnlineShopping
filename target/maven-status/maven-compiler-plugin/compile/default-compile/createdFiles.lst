@@ -1,0 +1,8 @@
+yasasiproject\pageobject\OrderPage.class
+yasasiproject\AbstractComponents\AbstractComponent.class
+yasasiproject\pageobject\CheckoutPage.class
+yasasiproject\resources\ExtentReporterNG.class
+yasasiproject\pageobject\CartPage.class
+yasasiproject\pageobject\ConfirmationPage.class
+yasasiproject\pageobject\LandingPage.class
+yasasiproject\pageobject\ProductCatelogue.class
