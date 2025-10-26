@@ -1,0 +1,1 @@
+Selenium/Java Test Automation Framework using Page Object and Page factory Implementation as design patterns, TestNG, Test Execution from Maven and Integration with Jenkins CI/CD and Generated Extent HTML reports. Integrating Cucumber wrapper into selenium Framework. 
